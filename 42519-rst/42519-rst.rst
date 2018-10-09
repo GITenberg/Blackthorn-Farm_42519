@@ -4,6 +4,7 @@
    :PG.Id: 42519
    :PG.Title: Blackthorn Farm
    :PG.Released: 2013-04-12
+   :PG.Reposted: 2015-05-30 - text corrections
    :PG.Rights: Public Domain
    :PG.Producer: Al Haines
    :DC.Creator: Arthur Applin
@@ -1910,7 +1911,7 @@ out and met him.
 matter is rather important.  Do you mind coming
 up to my study?"
 
-Rupert followed, wondering what had happened
+Rupert followed, wondering what had happened.
 To his relief he saw his father standing with his
 back to the fireplace.
 
@@ -8645,7 +8646,7 @@ you've seen your brother.  Any distress you may
 show would be perfectly natural.  Blackthorn Farm
 is sure to be watched day and night.  You and your
 father will be watched and followed, probably, but
-that needn't prevent you're coming up here if you
+that needn't prevent your coming up here if you
 want to see me.  I won't announce our engagement
 until Rupert is safe, in case it arouses suspicion."  He
 led her to the door.  "Good-night, dear.  God
@@ -10233,7 +10234,7 @@ and "foreign parts"—as anywhere out of England
 was called in Devonshire—were still a closed book.
 
 Egypt!  The Desert seen from the Suez Canal
-had impressed him.  The Rea Sea, with a distant
+had impressed him.  The Red Sea, with a distant
 glimpse of Mount Ararat, had brought the Bible
 story of the Israelite wanderings right before his
 eyes, for was not that the very "Wilderness"
@@ -11325,7 +11326,7 @@ Rupert?"  Ruby's voice seemed to come with an effort.
 "Of course."
 
 "You admit, then, that you saw me alter the
-cheque in-Rupert's rooms that afternoon?"
+cheque in Rupert's rooms that afternoon?"
 
 Despard shrugged his shoulders.  "Well, as far as
 I remember I was just coming into the room and
